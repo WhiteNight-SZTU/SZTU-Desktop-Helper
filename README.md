@@ -1,7 +1,9 @@
 # SZTU-Desktop-Helper
 SZTUer的工作站  
 基于Windows平台开发。  
-目前进度：美化课表排版（30%）  
+目前进度：课表排版  
+
+         
 
 # 需要环境  
 1..NET6.0 desktop runtime  
